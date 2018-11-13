@@ -1,0 +1,28 @@
+
+\begin{center}
+\begin{table}
+\centering
+\caption{Interview Protocol}
+\begin{tabular}{ |p{15cm}|}
+ \hline
+   1) What experiences led you to becoming a graduate apprentice?\\
+ \hline
+  \hline
+   2) How do you view your current role as an apprentice?\\
+ \hline
+  \hline
+   3) How do you feel at work compared to full time members of staff?\\
+ \hline
+  \hline
+   4) So far, good or bad, what experiences have really stood out for you?\\
+ \hline
+   \hline
+   5) How do you identify yourself when asked what you do?\\
+ \hline
+\end{tabular}
+\label{table:questions} 
+
+
+\end{table}
+\end{center}
+
